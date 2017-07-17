@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+        margin-top: 50px;
+        font-size: 250%;
+        color: darkslategray;
+}
+h2{
+   text-align: center;
+        margin-top: 10px;
+        font-size: 150%; 
+        color:slategray;
+}
+p{
+font-size: 200%;
+}
+button {
+     background-color: darkslategray; 
+    color: #e7e7e7;
+   font-size: 20px;
+    border-radius: 12px;
+    width: 20%;
+       padding: 15px 32px;
+    text-align: center;
+    
+
+}
+
+button:hover {
+    background-color: #e7e7e7; 
+    color: darkslategray;
+}
+
+.wrapper {
+    text-align: center;
+    padding: 20px;
+}
